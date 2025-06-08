@@ -1,6 +1,6 @@
 ## Welcome
 
-[](https://cdn.7tv.app/emote/01F6NMMEER00015NVG2J8ZH77N/4x.avif)
+![](https://cdn.7tv.app/emote/01F6NMMEER00015NVG2J8ZH77N/4x.avif)
 
 I'm Jukombe, pro developer (using AI)
 Forced to be a BWL dimwit
